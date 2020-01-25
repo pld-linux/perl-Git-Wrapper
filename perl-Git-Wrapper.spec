@@ -4,7 +4,6 @@
 #
 %define		pdir	Git
 %define		pnam	Wrapper
-%include	/usr/lib/rpm/macros.perl
 Summary:	Git::Wrapper - Wrap git(7) command-line interface
 Name:		perl-Git-Wrapper
 Version:	0.048
